@@ -7,7 +7,7 @@ public class Calculadora{
     public Calculadora(){
         this(0.0,0.0);
     }
-    public Calculadora(double valorà,double valorB){
+    public Calculadora(double valorA,double valorB){
         setValorA(valorA);
         setValorB(valorB);
     }
